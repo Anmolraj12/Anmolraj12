@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anmolraj12
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ...C++
+- 🌱 I’m currently learning ...C++ , JAVA
 - 💞️ I’m looking to collaborate on ... special projects
 - 📫 How to reach me ...just message me😉
 - LinkedIn = https://www.linkedin.com/in/anmol-raj-ab4377223
